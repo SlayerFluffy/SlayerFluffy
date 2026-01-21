@@ -6,7 +6,7 @@
 
 Hello, GitHub! 👋
 
-I'm Drew, a student at Brigham Young University-Idaho interested in Software Development and Animation. Welcome to my GitHub profile!
+I'm Drew Jezek, a student at Brigham Young University-Idaho interested in Software Development and Animation. Welcome to my GitHub profile!
 
 ## About Me
 
